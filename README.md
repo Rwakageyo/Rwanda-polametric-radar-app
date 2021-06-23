@@ -1,2 +1,2 @@
-# Rwanda-polametric-radar-app
-Rwanda polametric radar app
+# a polametric weather radar app
+a polametric weather radar app
